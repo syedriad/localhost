@@ -1,0 +1,245 @@
+0000.001 (0) Opened log file at time: Mon, 25 Sep 2023 18:01:49 +0000 on http://localhost/wristland
+0000.024 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.10 WP: 6.3.1 PHP: 8.2.4 (apache2handler, Windows NT DESKTOP-ACEO563 10.0 build 18362 (Windows 10) AMD64) MySQL: 10.4.28-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 49.6M | 52M) multisite: N openssl: OpenSSL 3.0.8 7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0000.032 (0) Free space on disk containing Updraft's temporary directory: 9574.2 MB
+0000.045 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.056 (0) Semaphore (fd, wp_options) being initialised
+0000.091 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.122 (0) Set semaphore last lock (fd) time to 2023-09-25 18:01:50
+0000.130 (0) Semaphore lock (fd) complete
+0000.160 (0) Backup run: resumption=0, nonce=7934392b5f89, file_nonce=7934392b5f89 begun at=1695664909 (1s ago), job type=backup
+0000.177 (0) Scheduling a resumption (1) after 300 seconds (1695665210) in case this run gets aborted
+0000.212 (0) Checking if we have a zip executable available
+0000.229 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.237 (0) Creation of backups of directories: beginning
+0000.271 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.792 (0) Total entities for the zip file: 855 directories, 3818 files (0 skipped as non-modified), 84.4 MB
+0003.801 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 86417.6 KB, split: 409600 KB)
+0003.881 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0003.957 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0004.029 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0004.103 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0004.177 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0004.244 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0004.302 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0004.373 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0004.438 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0004.507 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0004.589 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0004.659 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0004.729 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0004.814 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0004.916 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0004.992 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0005.046 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0005.106 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0005.198 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0005.274 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0005.353 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0005.403 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0005.475 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0005.557 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0005.631 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0005.708 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0005.787 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0005.861 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0005.931 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0006.010 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0006.090 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0006.163 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0006.239 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0006.313 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0006.383 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0006.461 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0006.539 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0006.619 (0) Zip: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0162.485 (0) Creating zip file manifest (backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.list-temp.tmp)
+0162.539 (0) Successfully created zip file manifest (size: 305603)
+0163.296 (0) Created plugins zip (0) - 22149.8 KB in 163 s (135.9 KB/s) (sha1: e4df4f6d656818f5ff92d6211aa9b3a04dff3790, sha256: bd63b2e6dffdcc9b62d131e1e2b73800c6fa4ea7a57decf916690ad3d71de185)
+0163.327 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0163.333 (0) No remote despatch: user chose no remote backup service
+0163.340 (0) Recording as successfully uploaded: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip
+0163.360 (0) Deleting zip manifest (backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip.list.tmp)
+0163.376 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0163.389 (0) Number of backup sets in history: 0; groups (db): 1
+0163.401 (0) Number of backup sets in history: 0; groups (files): 1
+0163.407 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0163.454 (0) Beginning creation of dump of themes (split every: 400 MB)
+0163.530 (0) Total entities for the zip file: 9 directories, 43 files (0 skipped as non-modified), 0.3 MB
+0163.538 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 348.3 KB, split: 409600 KB)
+0164.136 (0) Creating zip file manifest (backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-themes.zip.list-temp.tmp)
+0164.154 (0) Successfully created zip file manifest (size: 2511)
+0164.199 (0) Created themes zip (0) - 180.8 KB in 0.7 s (251.8 KB/s) (sha1: f8f7c539df1437a8fb18ed2f2a9f82715cfaa053, sha256: 5605812fa96b005fa3bac05076519626c5b7417aa24843b6168be888192f650d)
+0164.226 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0164.235 (0) No remote despatch: user chose no remote backup service
+0164.243 (0) Recording as successfully uploaded: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-themes.zip
+0164.268 (0) Deleting zip manifest (backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-themes.zip.list.tmp)
+0164.288 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0164.305 (0) Number of backup sets in history: 0; groups (db): 1
+0164.314 (0) Number of backup sets in history: 0; groups (files): 1
+0164.323 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0164.369 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0164.378 (0) Looking for candidates to backup in: C:\xampp\htdocs\wristland/wp-content/uploads
+0164.388 (0) finding files: 2023: adding to list (1)
+0164.398 (0) finding files: elementor: adding to list (2)
+0164.407 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0164.485 (0) Total entities for the zip file: 4 directories, 26 files (0 skipped as non-modified), 1.6 MB
+0164.494 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 1593.4 KB, split: 409600 KB)
+0164.889 (0) Creating zip file manifest (backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-uploads.zip.list-temp.tmp)
+0164.901 (0) Successfully created zip file manifest (size: 1353)
+0164.991 (0) Created uploads zip (0) - 1495.1 KB in 0.6 s (2687.1 KB/s) (sha1: b2abd6a608d7ad2269c9c9ca2ea62c52444620bb, sha256: 89106152baa5ad50d29f12a19e91f5fe4c69fa3d4480ee4cd435e9bfdc828ac2)
+0165.020 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0165.028 (0) No remote despatch: user chose no remote backup service
+0165.037 (0) Recording as successfully uploaded: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-uploads.zip
+0165.056 (0) Deleting zip manifest (backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-uploads.zip.list.tmp)
+0165.076 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0165.084 (0) Number of backup sets in history: 0; groups (db): 1
+0165.099 (0) Number of backup sets in history: 0; groups (files): 1
+0165.108 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0165.148 (0) Beginning backup of other directories found in the content directory (index: 0)
+0165.157 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0165.173 (0) Looking for candidates to backup in: C:\xampp\htdocs\wristland/wp-content
+0165.189 (0) finding files: index.php: adding to list (1)
+0165.199 (0) finding files: plugins: skipping: this is the plugins directory
+0165.208 (0) finding files: themes: skipping: this is the themes directory
+0165.217 (0) finding files: updraft: skipping: this is the updraft directory
+0165.226 (0) finding files: upgrade: skipping: excluded by options
+0165.236 (0) finding files: uploads: skipping: this is the uploads directory
+0165.266 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0165.275 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 0 KB, split: 409600 KB)
+0165.317 (0) Creating zip file manifest (backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-others.zip.list-temp.tmp)
+0165.326 (0) Successfully created zip file manifest (size: 43)
+0165.376 (0) Created others zip (0) - 0.1 KB in 0.1 s (1.3 KB/s) (sha1: 7edf9fa98a843631c2afde1269c192907bc316e0, sha256: 5a93991f65dead046c8def728b1220bbfc8c576a549ed0f10125eb4874ac982b)
+0165.401 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0165.408 (0) No remote despatch: user chose no remote backup service
+0165.414 (0) Recording as successfully uploaded: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-others.zip
+0165.428 (0) Deleting zip manifest (backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-others.zip.list.tmp)
+0165.441 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0165.448 (0) Number of backup sets in history: 0; groups (db): 1
+0165.456 (0) Number of backup sets in history: 0; groups (files): 1
+0165.462 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0165.512 (0) Saving backup status to database (elements: 8)
+0165.523 (0) Beginning creation of database dump (WordPress DB)
+0165.535 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0165.554 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysqldump.exe
+0165.735 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!50503 SET character_set_client = utf8mb4 */;\n (truncated - 1452 bytes total)
+0165.747 (0) Working binary mysqldump found: "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysqldump.exe"
+0165.860 (0) Table wp_options: Total expected rows (via COUNT): 209
+0165.865 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0165.926 (0) Table wp_options: Rows added in this batch (next record: 467): 205 (uncompressed bytes in this segment=948079) in 0.12 seconds
+0166.034 (0) Table wp_options: finishing file(s) (2, 124.5 KB)
+0166.061 (0) Table wp_users: Total expected rows (via COUNT): 1
+0166.070 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.099 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1167) in 0.05 seconds
+0166.126 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0166.172 (0) Table wp_usermeta: Total expected rows (via COUNT): 24
+0166.179 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.193 (0) Table wp_usermeta: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=2194) in 0.05 seconds
+0166.251 (0) Table wp_usermeta: finishing file(s) (2, 1.2 KB)
+0166.295 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0166.309 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.03 seconds
+0166.341 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0166.369 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0166.379 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.398 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1885) in 0.04 seconds
+0166.439 (0) Table wp_comments: finishing file(s) (2, 0.7 KB)
+0166.496 (0) Table wp_links: Total expected rows (via COUNT): 0
+0166.514 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.03 seconds
+0166.544 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0166.755 (0) Table wp_postmeta: Total expected rows (via COUNT): 561
+0166.764 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.898 (0) Table wp_postmeta: Rows added in this batch (next record: 627): 561 (uncompressed bytes in this segment=1351482) in 0.34 seconds
+0166.943 (0) Table wp_postmeta: finishing file(s) (2, 122 KB)
+0167.188 (0) Table wp_posts: Total expected rows (via COUNT): 109
+0167.199 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0167.271 (0) Table wp_posts: Rows added in this batch (next record: 120): 109 (uncompressed bytes in this segment=1145516) in 0.31 seconds
+0167.321 (0) Table wp_posts: finishing file(s) (2, 29 KB)
+0167.394 (0) Table wp_term_relationships: Total expected rows (approximate): 3
+0167.417 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 4 (uncompressed bytes in this segment=735) in 0.05 seconds
+0167.464 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0167.529 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 2
+0167.581 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0167.623 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=889) in 0.14 seconds
+0167.671 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0167.743 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0167.758 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=607) in 0.04 seconds
+0167.821 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0167.859 (0) Table wp_terms: Total expected rows (via COUNT): 2
+0167.869 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0167.889 (0) Table wp_terms: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=697) in 0.05 seconds
+0167.929 (0) Table wp_terms: finishing file(s) (2, 0.4 KB)
+0167.977 (0) Table wp_e_events: Total expected rows (via COUNT): 1
+0167.987 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0167.996 (0) Table wp_e_events: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=773) in 0.03 seconds
+0168.039 (0) Table wp_e_events: finishing file(s) (2, 0.5 KB)
+0168.119 (0) Table wp_e_submissions: Total expected rows (via COUNT): 0
+0168.146 (0) Table wp_e_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1979) in 0.08 seconds
+0168.263 (0) Table wp_e_submissions: finishing file(s) (2, 0.7 KB)
+0168.331 (0) Table wp_e_submissions_actions_log: Total expected rows (via COUNT): 0
+0168.340 (0) Table wp_e_submissions_actions_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1140) in 0.02 seconds
+0168.375 (0) Table wp_e_submissions_actions_log: finishing file(s) (2, 0.5 KB)
+0168.420 (0) Table wp_e_submissions_values: Total expected rows (via COUNT): 0
+0168.435 (0) Table wp_e_submissions_values: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=673) in 0.03 seconds
+0168.496 (0) Table wp_e_submissions_values: finishing file(s) (2, 0.4 KB)
+0168.504 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\wristland/wp-content/updraft/backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db.gz (line 1976, C:\xampp\htdocs\wristland\wp-content\plugins\updraftplus\backup.php)
+0168.519 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_options.table.tmpr468.gz (1/16/fopen): adding to final database dump
+0168.551 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_options.table.gz (2/16/fopen): adding to final database dump
+0168.561 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_users.table.tmpr2.gz (3/16/fopen): adding to final database dump
+0168.569 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_users.table.gz (4/16/fopen): adding to final database dump
+0168.579 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_usermeta.table.tmpr25.gz (5/16/fopen): adding to final database dump
+0168.589 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_usermeta.table.gz (6/16/fopen): adding to final database dump
+0168.599 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_commentmeta.table.tmpr0.gz (7/16/fopen): adding to final database dump
+0168.609 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_commentmeta.table.gz (8/16/fopen): adding to final database dump
+0168.617 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_comments.table.tmpr2.gz (9/16/fopen): adding to final database dump
+0168.627 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_comments.table.gz (10/16/fopen): adding to final database dump
+0168.637 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_links.table.tmpr0.gz (11/16/fopen): adding to final database dump
+0168.647 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_links.table.gz (12/16/fopen): adding to final database dump
+0168.657 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_postmeta.table.tmpr628.gz (13/16/fopen): adding to final database dump
+0168.698 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_postmeta.table.gz (14/16/fopen): adding to final database dump
+0168.757 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_posts.table.tmpr121.gz (15/16/fopen): adding to final database dump
+0168.769 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_posts.table.gz (16/16/fopen): adding to final database dump
+0168.776 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_term_relationships.table.tmpr100001.gz (17/16/fopen): adding to final database dump
+0168.783 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_term_relationships.table.gz (18/16/fopen): adding to final database dump
+0168.790 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_term_taxonomy.table.tmpr4.gz (19/16/fopen): adding to final database dump
+0168.798 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_term_taxonomy.table.gz (20/16/fopen): adding to final database dump
+0168.805 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_termmeta.table.tmpr0.gz (21/16/fopen): adding to final database dump
+0168.812 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_termmeta.table.gz (22/16/fopen): adding to final database dump
+0168.819 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_terms.table.tmpr4.gz (23/16/fopen): adding to final database dump
+0168.826 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_terms.table.gz (24/16/fopen): adding to final database dump
+0168.833 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_e_events.table.tmpr2.gz (25/16/fopen): adding to final database dump
+0168.842 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_e_events.table.gz (26/16/fopen): adding to final database dump
+0168.849 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_e_submissions.table.tmpr0.gz (27/16/fopen): adding to final database dump
+0168.856 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_e_submissions.table.gz (28/16/fopen): adding to final database dump
+0168.863 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_e_submissions_actions_log.table.tmpr0.gz (29/16/fopen): adding to final database dump
+0168.871 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_e_submissions_actions_log.table.gz (30/16/fopen): adding to final database dump
+0168.879 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_e_submissions_values.table.tmpr0.gz (31/16/fopen): adding to final database dump
+0168.888 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db-table-wp_e_submissions_values.table.gz (32/16/fopen): adding to final database dump
+0168.968 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db.gz: finished writing out complete database file (282.7 KB)
+0169.062 (0) Total database tables backed up: 16 (backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db.gz, size: 289617, sha1: 3ed0325de233398c7872e18a9becbe8279e25114, sha256: adc942fc0ba392a37bf8991b022efc19bfdfe857af60aaec907dd3299c38736e)
+0169.099 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-plugins.zip: plugins: This file has already been successfully uploaded
+0169.107 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-themes.zip: themes: This file has already been successfully uploaded
+0169.114 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-uploads.zip: uploads: This file has already been successfully uploaded
+0169.122 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-others.zip: others: This file has already been successfully uploaded
+0169.130 (0) backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db.gz: db: This file has not yet been successfully uploaded: will queue
+0169.137 (0) Saving backup history. Total backup size: 23.5 MB
+0169.161 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0169.276 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0169.285 (0) No remote despatch: user chose no remote backup service
+0169.299 (0) Recording as successfully uploaded: backup_2023-09-25-1801_Luxury_Watch_7934392b5f89-db.gz
+0169.351 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0169.361 (0) Number of backup sets in history: 1; groups (db): 1
+0169.380 (0) Examining (for databases) backup set with group_id=0, nonce=7934392b5f89, datestamp=1695664909 (Sep 25 2023 18:01:49)
+0169.388 (0) This backup set is the backup set just made, so will not be deleted.
+0169.388 (0) Number of backup sets in history: 1; groups (files): 1
+0169.399 (0) Examining (for files) backup set with nonce=7934392b5f89, datestamp=1695664909 (Sep 25 2023 18:01:49)
+0169.399 (0) This backup set is the backup set just made, so will not be deleted.
+0169.408 (0) This backup set is the backup set just made, so will not be deleted.
+0169.409 (0) This backup set is the backup set just made, so will not be deleted.
+0169.409 (0) This backup set is the backup set just made, so will not be deleted.
+0169.409 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0169.419 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0169.441 (0) Resume backup (7934392b5f89, 0): finish run
+0169.478 (0) Decremented the semaphore (fd) by 1
+0169.492 (0) Semaphore (fd) unlocked
+0169.499 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0169.523 (0) No email will/can be sent - the user has not configured an email address.
+0169.536 (0) The backup succeeded and is now complete
